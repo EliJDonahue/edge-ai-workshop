@@ -87,7 +87,7 @@ In the [Agent Library](https://edge.aras.cloud/ai/platform/agents), create an ag
 
 Open your agent in the [Agent Library](https://edge.aras.cloud/ai/platform/agents) and connect everything you built:
 
-- Add the **File Problem Report** skill.
+- Add the **File Problem Report** skill. To compare against your own, see the [example problem report skill](skills/problem%20report%20skill.md).
 - Add the tools the skill needs, such as item search and Problem Report creation.
 - Select the **access point** from step 3.
 
